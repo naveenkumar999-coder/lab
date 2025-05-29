@@ -1,4 +1,3 @@
-
 % Base case: If BList is empty, there are no occurrences.
 memCount(_, [], 0).
 
